@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IEEE North Jersey Section Newsletter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section p {
+            margin: 10px 0;
+        }
+        .section ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        .section ul li {
+            margin-bottom: 5px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        .footer a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>IEEE North Jersey Section Newsletter</h1>
+
+        <!-- Chair’s Note -->
+        <div class="section">
+            <h2>Chair’s Note</h2>
+            <p><strong>A Message from the IEEE North Jersey Section Chair, Dr. Emad Farag</strong></p>
+            <p>At the start of the New Year, I wish everyone had a relaxing and joyful end-of-the-year Christmas holiday season and hope that you are energized and ready to begin the New Year. I am excited to start my term as Chair of the IEEE North Jersey Section, beginning January 1, 2025. It is truly an honor and a pleasure to serve in this role...</p>
+            <p>My vision for the New Year is fourfold: First, to meaningfully impact the local community and the Section’s members; second, to foster the next generation of engineering leaders; third, to preserve the history of technological innovation; and finally, to create an environment of inclusivity and diversity...</p>
+            <p>As we move into the New Year, let’s continue to make the IEEE North Jersey Section a force for positive change in our region and local community. Together, we can build an entity that has a lasting, positive impact on society by creating a technical forum for discussion among industry, academia, and government to enhance technology in our community...</p>
+        </div>
+
+        <!-- Leadership Style of Thomas Edison -->
+        <div class="section">
+            <h2>The Leadership Style of Thomas Edison</h2>
+            <p><strong>An article by Harry Roman</strong></p>
+            <p>Thomas Edison, the great inventor excelled in his leadership of his project teams. Here is a listing of those special skills he deployed for his R&D lab/invention factory professionals who created his new products and services...</p>
+            <ul>
+                <li>Championed team-based problem-solving, encouraging cross-pollination with other teams [usually 30-40 teams at once were led by Edison].</li>
+                <li>Instituted flexible work hours-the R&D lab was open 24/7/365.</li>
+                <li>Provided access to all the tools and materials for inventing right there in the invention lab storeroom-facilitating one-stop shopping. He facilitated invention without delays.</li>
+                <li>Kept track of project costs with all storeroom material requests being billed back to the project teams doing the requesting.</li>
+                <li>Maintained a large corporate library of technical books, journals, and published papers for reference material available to all teams [experts believe Edison started the corporate library movement].</li>
+                <li>Encouraged the keeping of detailed notebooks and documentation of project activities [4,000 ledgers completed during his lifetime along with millions of additional project documents generated].</li>
+                <li>Allowed teams to visit outside sites where relevant information could be gathered from private experiments and development efforts.</li>
+                <li>Edison refrained from closely managing each team on a regular basis, but sometimes he worked side-by-side with them if a difficult problem was encountered and his expertise was requested. He strongly believed in each team learning on its own. Building effective project teams was a source of great pride for Edison. His teams were often multi-disciplinary in nature, employing head and hands thinkers/doers.</li>
+            </ul>
+        </div>
+
+        <!-- Calendar of Events -->
+        <div class="section">
+            <h2>Calendar of Events</h2>
+            <p><strong>Upcoming Events: January 2025 Onwards</strong></p>
+            <ul>
+                <li><strong>Cryptocurrency - Bitcoin- Is it ready for Prime Time?</strong> - 06 Jan 2025 07:00 PM - Virtual</li>
+                <li><strong>Beyond Moore: 3D Memory, 3D Packaging</strong> - 07 Jan 2025 06:00 PM - Virtual</li>
+                <li><strong>January 2025 ExCom Meeting: North Jersey Section</strong> - 08 Jan 2025 06:30 PM - Virtual</li>
+                <li><strong>Careers in Tech Special Event 2025 - Michael Viron - Startup 101: Lessons Learned</strong> - 08 Jan 2025 06:00 PM - Virtual</li>
+                <!-- Add more events here -->
+            </ul>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>For more information, visit the <a href="https://www.ieee.org">IEEE North Jersey Section Website</a>.</p>
+            <p>&copy; 2025 IEEE North Jersey Section. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
